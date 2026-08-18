@@ -1,5 +1,7 @@
 # 🏥 EHR Public Health Analytics
 
+![CI](https://github.com/fanamperana/ehr-public-health-analytics/actions/workflows/ci.yml/badge.svg)
+
 Analyse de santé publique à partir de données cliniques synthétiques (format FHIR),
 générées avec [Synthea](https://synthetichealth.github.io/synthea/), pour identifier
 les facteurs démographiques et cliniques associés aux maladies chroniques

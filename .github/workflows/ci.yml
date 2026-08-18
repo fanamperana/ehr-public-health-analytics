@@ -1,0 +1,38 @@
+name: CI
+
+# Déclenche ce workflow à chaque push et à chaque pull request sur main
+on:
+  push:
+    branches: [main]
+  pull_request:
+    branches: [main]
+
+jobs:
+  test:
+    name: Tests unitaires
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Récupérer le code du dépôt
+        uses: actions/checkout@v4
+
+      - name: Installer Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Installer les dépendances
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+          pip install flake8
+
+      - name: Vérifier le style du code (lint)
+        run: |
+          # Erreurs bloquantes uniquement (syntaxe, imports cassés)
+          flake8 src/ --count --select=E9,F63,F7,F82 --show-source --statistics
+          # Avertissements de style, non bloquants
+          flake8 src/ --count --exit-zero --max-line-length=100 --statistics
+
+      - name: Lancer les tests unitaires
+        run: pytest tests/ -v
