@@ -139,5 +139,5 @@ donnée clinique, indicateurs de santé publique, restitution décisionnelle.
 
 ## 👤 Auteur
 
-Dola — Étudiant en Master 2 Ingénierie des Systèmes d'Information et Analyse de
+Fanamperana  — Étudiant en Master 2 Ingénierie des Systèmes Avancée  d'Information et Analyse de
 Données (ISA), ESPA Vontovorona, Antananarivo.
