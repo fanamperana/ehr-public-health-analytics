@@ -1,0 +1,203 @@
+{
+  "resourceType": "Bundle",
+  "type": "transaction",
+  "entry": [
+    {
+      "resource": {
+        "resourceType": "Patient",
+        "id": "4f0480e9-2676-4fae-b183-401a19dfc7f8",
+        "name": [
+          {
+            "given": [
+              "Nomena"
+            ],
+            "family": "Rabe"
+          }
+        ],
+        "gender": "male",
+        "birthDate": "1961-09-10",
+        "address": [
+          {
+            "city": "Mahajanga",
+            "state": "Boeny"
+          }
+        ]
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "Condition",
+        "subject": {
+          "reference": "Patient/4f0480e9-2676-4fae-b183-401a19dfc7f8"
+        },
+        "code": {
+          "coding": [
+            {
+              "code": "44054006",
+              "display": "Type 2 diabetes mellitus"
+            }
+          ],
+          "text": "Type 2 diabetes mellitus"
+        },
+        "onsetDateTime": "2020-01-14T00:00:00Z",
+        "clinicalStatus": {
+          "coding": [
+            {
+              "code": "active"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "Condition",
+        "subject": {
+          "reference": "Patient/4f0480e9-2676-4fae-b183-401a19dfc7f8"
+        },
+        "code": {
+          "coding": [
+            {
+              "code": "59621000",
+              "display": "Essential hypertension"
+            }
+          ],
+          "text": "Essential hypertension"
+        },
+        "onsetDateTime": "1999-04-02T00:00:00Z",
+        "clinicalStatus": {
+          "coding": [
+            {
+              "code": "active"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "Observation",
+        "subject": {
+          "reference": "Patient/4f0480e9-2676-4fae-b183-401a19dfc7f8"
+        },
+        "code": {
+          "coding": [
+            {
+              "code": "39156-5",
+              "display": "Body Mass Index"
+            }
+          ],
+          "text": "Body Mass Index"
+        },
+        "valueQuantity": {
+          "value": 28.9,
+          "unit": "kg/m2"
+        },
+        "effectiveDateTime": "2025-09-29T00:00:00Z"
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "Observation",
+        "subject": {
+          "reference": "Patient/4f0480e9-2676-4fae-b183-401a19dfc7f8"
+        },
+        "code": {
+          "coding": [
+            {
+              "code": "8480-6",
+              "display": "Systolic blood pressure"
+            }
+          ],
+          "text": "Systolic blood pressure"
+        },
+        "valueQuantity": {
+          "value": 157.0,
+          "unit": "mmHg"
+        },
+        "effectiveDateTime": "2025-09-29T00:00:00Z"
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "Observation",
+        "subject": {
+          "reference": "Patient/4f0480e9-2676-4fae-b183-401a19dfc7f8"
+        },
+        "code": {
+          "coding": [
+            {
+              "code": "8462-4",
+              "display": "Diastolic blood pressure"
+            }
+          ],
+          "text": "Diastolic blood pressure"
+        },
+        "valueQuantity": {
+          "value": 88.0,
+          "unit": "mmHg"
+        },
+        "effectiveDateTime": "2025-09-29T00:00:00Z"
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "Observation",
+        "subject": {
+          "reference": "Patient/4f0480e9-2676-4fae-b183-401a19dfc7f8"
+        },
+        "code": {
+          "coding": [
+            {
+              "code": "4548-4",
+              "display": "Hemoglobin A1c"
+            }
+          ],
+          "text": "Hemoglobin A1c"
+        },
+        "valueQuantity": {
+          "value": 7.3,
+          "unit": "%"
+        },
+        "effectiveDateTime": "2025-09-29T00:00:00Z"
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "Observation",
+        "subject": {
+          "reference": "Patient/4f0480e9-2676-4fae-b183-401a19dfc7f8"
+        },
+        "code": {
+          "coding": [
+            {
+              "code": "2339-0",
+              "display": "Glucose"
+            }
+          ],
+          "text": "Glucose"
+        },
+        "valueQuantity": {
+          "value": 146.0,
+          "unit": "mg/dL"
+        },
+        "effectiveDateTime": "2025-09-29T00:00:00Z"
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "Encounter",
+        "subject": {
+          "reference": "Patient/4f0480e9-2676-4fae-b183-401a19dfc7f8"
+        },
+        "class": {
+          "code": "ambulatory"
+        },
+        "period": {
+          "start": "2025-09-29T00:00:00Z",
+          "end": "2025-09-29T01:00:00Z"
+        }
+      }
+    }
+  ]
+}

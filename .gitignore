@@ -1,0 +1,19 @@
+# Données : les 150 patients synthétiques d'exemple sont volontairement
+# versionnés pour que le projet fonctionne "out of the box".
+# Si tu régénères tes propres données volumineuses, décommente les lignes suivantes :
+# data/synthea_output/*.json
+# data/patient_dataset.csv
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.pytest_cache/
+venv/
+.venv/
+
+# OS
+.DS_Store
+
+# Streamlit
+.streamlit/

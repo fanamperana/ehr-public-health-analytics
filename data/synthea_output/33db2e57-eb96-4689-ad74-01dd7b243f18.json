@@ -1,0 +1,153 @@
+{
+  "resourceType": "Bundle",
+  "type": "transaction",
+  "entry": [
+    {
+      "resource": {
+        "resourceType": "Patient",
+        "id": "33db2e57-eb96-4689-ad74-01dd7b243f18",
+        "name": [
+          {
+            "given": [
+              "Fetra"
+            ],
+            "family": "Rasoa"
+          }
+        ],
+        "gender": "male",
+        "birthDate": "1985-01-23",
+        "address": [
+          {
+            "city": "Toliara",
+            "state": "Atsimo-Andrefana"
+          }
+        ]
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "Observation",
+        "subject": {
+          "reference": "Patient/33db2e57-eb96-4689-ad74-01dd7b243f18"
+        },
+        "code": {
+          "coding": [
+            {
+              "code": "39156-5",
+              "display": "Body Mass Index"
+            }
+          ],
+          "text": "Body Mass Index"
+        },
+        "valueQuantity": {
+          "value": 23.8,
+          "unit": "kg/m2"
+        },
+        "effectiveDateTime": "2026-01-27T00:00:00Z"
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "Observation",
+        "subject": {
+          "reference": "Patient/33db2e57-eb96-4689-ad74-01dd7b243f18"
+        },
+        "code": {
+          "coding": [
+            {
+              "code": "8480-6",
+              "display": "Systolic blood pressure"
+            }
+          ],
+          "text": "Systolic blood pressure"
+        },
+        "valueQuantity": {
+          "value": 124.0,
+          "unit": "mmHg"
+        },
+        "effectiveDateTime": "2026-01-27T00:00:00Z"
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "Observation",
+        "subject": {
+          "reference": "Patient/33db2e57-eb96-4689-ad74-01dd7b243f18"
+        },
+        "code": {
+          "coding": [
+            {
+              "code": "8462-4",
+              "display": "Diastolic blood pressure"
+            }
+          ],
+          "text": "Diastolic blood pressure"
+        },
+        "valueQuantity": {
+          "value": 73.0,
+          "unit": "mmHg"
+        },
+        "effectiveDateTime": "2026-01-27T00:00:00Z"
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "Observation",
+        "subject": {
+          "reference": "Patient/33db2e57-eb96-4689-ad74-01dd7b243f18"
+        },
+        "code": {
+          "coding": [
+            {
+              "code": "4548-4",
+              "display": "Hemoglobin A1c"
+            }
+          ],
+          "text": "Hemoglobin A1c"
+        },
+        "valueQuantity": {
+          "value": 5.6,
+          "unit": "%"
+        },
+        "effectiveDateTime": "2026-01-27T00:00:00Z"
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "Observation",
+        "subject": {
+          "reference": "Patient/33db2e57-eb96-4689-ad74-01dd7b243f18"
+        },
+        "code": {
+          "coding": [
+            {
+              "code": "2339-0",
+              "display": "Glucose"
+            }
+          ],
+          "text": "Glucose"
+        },
+        "valueQuantity": {
+          "value": 99.0,
+          "unit": "mg/dL"
+        },
+        "effectiveDateTime": "2026-01-27T00:00:00Z"
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "Encounter",
+        "subject": {
+          "reference": "Patient/33db2e57-eb96-4689-ad74-01dd7b243f18"
+        },
+        "class": {
+          "code": "ambulatory"
+        },
+        "period": {
+          "start": "2026-01-27T00:00:00Z",
+          "end": "2026-01-27T01:00:00Z"
+        }
+      }
+    }
+  ]
+}

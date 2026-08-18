@@ -1,0 +1,153 @@
+{
+  "resourceType": "Bundle",
+  "type": "transaction",
+  "entry": [
+    {
+      "resource": {
+        "resourceType": "Patient",
+        "id": "495ba04b-c6f3-459c-8a61-2df6e531c9ee",
+        "name": [
+          {
+            "given": [
+              "Jean"
+            ],
+            "family": "Rabe"
+          }
+        ],
+        "gender": "male",
+        "birthDate": "2002-03-27",
+        "address": [
+          {
+            "city": "Toamasina",
+            "state": "Atsinanana"
+          }
+        ]
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "Observation",
+        "subject": {
+          "reference": "Patient/495ba04b-c6f3-459c-8a61-2df6e531c9ee"
+        },
+        "code": {
+          "coding": [
+            {
+              "code": "39156-5",
+              "display": "Body Mass Index"
+            }
+          ],
+          "text": "Body Mass Index"
+        },
+        "valueQuantity": {
+          "value": 24.3,
+          "unit": "kg/m2"
+        },
+        "effectiveDateTime": "2026-06-18T00:00:00Z"
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "Observation",
+        "subject": {
+          "reference": "Patient/495ba04b-c6f3-459c-8a61-2df6e531c9ee"
+        },
+        "code": {
+          "coding": [
+            {
+              "code": "8480-6",
+              "display": "Systolic blood pressure"
+            }
+          ],
+          "text": "Systolic blood pressure"
+        },
+        "valueQuantity": {
+          "value": 114.0,
+          "unit": "mmHg"
+        },
+        "effectiveDateTime": "2026-06-18T00:00:00Z"
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "Observation",
+        "subject": {
+          "reference": "Patient/495ba04b-c6f3-459c-8a61-2df6e531c9ee"
+        },
+        "code": {
+          "coding": [
+            {
+              "code": "8462-4",
+              "display": "Diastolic blood pressure"
+            }
+          ],
+          "text": "Diastolic blood pressure"
+        },
+        "valueQuantity": {
+          "value": 78.0,
+          "unit": "mmHg"
+        },
+        "effectiveDateTime": "2026-06-18T00:00:00Z"
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "Observation",
+        "subject": {
+          "reference": "Patient/495ba04b-c6f3-459c-8a61-2df6e531c9ee"
+        },
+        "code": {
+          "coding": [
+            {
+              "code": "4548-4",
+              "display": "Hemoglobin A1c"
+            }
+          ],
+          "text": "Hemoglobin A1c"
+        },
+        "valueQuantity": {
+          "value": 5.7,
+          "unit": "%"
+        },
+        "effectiveDateTime": "2026-06-18T00:00:00Z"
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "Observation",
+        "subject": {
+          "reference": "Patient/495ba04b-c6f3-459c-8a61-2df6e531c9ee"
+        },
+        "code": {
+          "coding": [
+            {
+              "code": "2339-0",
+              "display": "Glucose"
+            }
+          ],
+          "text": "Glucose"
+        },
+        "valueQuantity": {
+          "value": 85.0,
+          "unit": "mg/dL"
+        },
+        "effectiveDateTime": "2026-06-18T00:00:00Z"
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "Encounter",
+        "subject": {
+          "reference": "Patient/495ba04b-c6f3-459c-8a61-2df6e531c9ee"
+        },
+        "class": {
+          "code": "ambulatory"
+        },
+        "period": {
+          "start": "2026-06-18T00:00:00Z",
+          "end": "2026-06-18T01:00:00Z"
+        }
+      }
+    }
+  ]
+}

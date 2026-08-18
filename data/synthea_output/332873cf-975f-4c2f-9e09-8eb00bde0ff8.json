@@ -1,0 +1,178 @@
+{
+  "resourceType": "Bundle",
+  "type": "transaction",
+  "entry": [
+    {
+      "resource": {
+        "resourceType": "Patient",
+        "id": "332873cf-975f-4c2f-9e09-8eb00bde0ff8",
+        "name": [
+          {
+            "given": [
+              "Hery"
+            ],
+            "family": "Andria"
+          }
+        ],
+        "gender": "male",
+        "birthDate": "1952-04-15",
+        "address": [
+          {
+            "city": "Antananarivo",
+            "state": "Analamanga"
+          }
+        ]
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "Condition",
+        "subject": {
+          "reference": "Patient/332873cf-975f-4c2f-9e09-8eb00bde0ff8"
+        },
+        "code": {
+          "coding": [
+            {
+              "code": "59621000",
+              "display": "Essential hypertension"
+            }
+          ],
+          "text": "Essential hypertension"
+        },
+        "onsetDateTime": "1982-09-19T00:00:00Z",
+        "clinicalStatus": {
+          "coding": [
+            {
+              "code": "active"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "Observation",
+        "subject": {
+          "reference": "Patient/332873cf-975f-4c2f-9e09-8eb00bde0ff8"
+        },
+        "code": {
+          "coding": [
+            {
+              "code": "39156-5",
+              "display": "Body Mass Index"
+            }
+          ],
+          "text": "Body Mass Index"
+        },
+        "valueQuantity": {
+          "value": 28.0,
+          "unit": "kg/m2"
+        },
+        "effectiveDateTime": "2025-11-27T00:00:00Z"
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "Observation",
+        "subject": {
+          "reference": "Patient/332873cf-975f-4c2f-9e09-8eb00bde0ff8"
+        },
+        "code": {
+          "coding": [
+            {
+              "code": "8480-6",
+              "display": "Systolic blood pressure"
+            }
+          ],
+          "text": "Systolic blood pressure"
+        },
+        "valueQuantity": {
+          "value": 155.0,
+          "unit": "mmHg"
+        },
+        "effectiveDateTime": "2025-11-27T00:00:00Z"
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "Observation",
+        "subject": {
+          "reference": "Patient/332873cf-975f-4c2f-9e09-8eb00bde0ff8"
+        },
+        "code": {
+          "coding": [
+            {
+              "code": "8462-4",
+              "display": "Diastolic blood pressure"
+            }
+          ],
+          "text": "Diastolic blood pressure"
+        },
+        "valueQuantity": {
+          "value": 91.0,
+          "unit": "mmHg"
+        },
+        "effectiveDateTime": "2025-11-27T00:00:00Z"
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "Observation",
+        "subject": {
+          "reference": "Patient/332873cf-975f-4c2f-9e09-8eb00bde0ff8"
+        },
+        "code": {
+          "coding": [
+            {
+              "code": "4548-4",
+              "display": "Hemoglobin A1c"
+            }
+          ],
+          "text": "Hemoglobin A1c"
+        },
+        "valueQuantity": {
+          "value": 5.7,
+          "unit": "%"
+        },
+        "effectiveDateTime": "2025-11-27T00:00:00Z"
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "Observation",
+        "subject": {
+          "reference": "Patient/332873cf-975f-4c2f-9e09-8eb00bde0ff8"
+        },
+        "code": {
+          "coding": [
+            {
+              "code": "2339-0",
+              "display": "Glucose"
+            }
+          ],
+          "text": "Glucose"
+        },
+        "valueQuantity": {
+          "value": 102.0,
+          "unit": "mg/dL"
+        },
+        "effectiveDateTime": "2025-11-27T00:00:00Z"
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "Encounter",
+        "subject": {
+          "reference": "Patient/332873cf-975f-4c2f-9e09-8eb00bde0ff8"
+        },
+        "class": {
+          "code": "ambulatory"
+        },
+        "period": {
+          "start": "2025-11-27T00:00:00Z",
+          "end": "2025-11-27T01:00:00Z"
+        }
+      }
+    }
+  ]
+}

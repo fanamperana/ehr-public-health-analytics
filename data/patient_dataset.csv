@@ -1,0 +1,151 @@
+patient_id,full_name,gender,birth_date,city,state,deceased,age,diabetes,hypertension,bmi,diastolic_bp,glucose,hba1c,systolic_bp,risk_score,risk_category
+6ecc1038-51fc-4c3d-847a-f22d6a1ed4f5,Marc Rakoto,male,1959-09-11,Fianarantsoa,Haute Matsiatra,False,66,False,False,24.7,76.0,107.0,5.8,140.0,5,modéré
+d2a4005b-fae9-4ebc-b9a8-b0115edcbe3c,Hanta Rasoa,female,1959-12-14,Antsirabe,Vakinankaratra,False,66,False,False,26.0,81.0,96.0,5.9,135.0,5,modéré
+65de1645-7f3e-49d6-992a-c1c1e9d6f5a1,Fetra Rasoa,male,1978-10-02,Mahajanga,Boeny,False,47,True,True,27.3,81.0,133.0,7.1,148.0,11,élevé
+2ffa3ba3-4945-4fbb-865e-f9ad3fb9755b,Fara Raza,female,1964-01-02,Toliara,Atsimo-Andrefana,False,62,False,False,24.7,76.0,100.0,5.5,135.0,3,faible
+4f5781ca-3763-4a28-987f-80252fccfdd5,Rado Rakoto,male,1964-12-02,Mahajanga,Boeny,False,61,False,True,24.4,84.0,95.0,5.6,143.0,6,modéré
+290cfe6a-bece-4c2a-a503-5d47338ea4c8,Voahangy Randria,female,1973-09-07,Toliara,Atsimo-Andrefana,False,52,True,False,27.9,76.0,127.0,7.4,129.0,7,modéré
+64977850-7b0c-498d-aa9b-0fd4154a9f19,Hery Andria,male,1998-07-21,Mahajanga,Boeny,False,28,False,False,23.5,77.0,100.0,5.4,125.0,0,faible
+5c3ab3a1-ec49-4a5f-bfb8-47643200a8e7,Sitraka Razafy,female,1994-05-19,Fianarantsoa,Haute Matsiatra,False,32,False,False,24.9,77.0,98.0,5.7,120.0,1,faible
+d259beb5-10a7-4476-b0f9-5811d816e770,Marie Raza,female,1975-07-27,Toamasina,Atsinanana,False,51,False,False,24.0,79.0,93.0,5.3,124.0,1,faible
+05b4fdd0-e82f-4047-8891-d3b5b6e34941,Marie Raza,female,1958-02-07,Toamasina,Atsinanana,False,68,False,False,27.0,81.0,96.0,6.0,137.0,5,modéré
+332873cf-975f-4c2f-9e09-8eb00bde0ff8,Hery Andria,male,1952-04-15,Antananarivo,Analamanga,False,74,False,True,28.0,91.0,102.0,5.7,155.0,9,élevé
+a7315344-f375-4778-83b0-39d351910e9c,Sitraka Andria,female,1970-09-05,Toamasina,Atsinanana,False,55,False,False,26.3,80.0,93.0,5.4,136.0,4,modéré
+e4e4eb8b-aad2-47b6-8b09-afe388a1726f,Fara Randria,female,2002-04-29,Toliara,Atsimo-Andrefana,False,24,False,True,23.8,78.0,102.0,5.3,134.0,3,faible
+c0599522-0118-431b-ac55-84317fdccf1f,Marc Raza,male,1999-11-26,Antananarivo,Analamanga,False,26,False,False,23.5,77.0,102.0,5.2,125.0,0,faible
+9c3fa0e6-e586-4819-bc5f-42891cdd9728,Marie Raza,female,1999-11-17,Antsirabe,Vakinankaratra,False,26,False,True,21.0,82.0,95.0,5.3,129.0,2,faible
+bf5c3ced-5547-4fce-b0e8-c6d78e62216a,Sitraka Rasoa,female,1967-04-11,Toamasina,Atsinanana,False,59,True,True,29.9,86.0,133.0,7.4,142.0,12,élevé
+8b8efbca-06ed-4278-b10d-69dcbee2b81a,Nirina Razafy,female,2001-04-09,Fianarantsoa,Haute Matsiatra,False,25,True,False,28.8,69.0,118.0,7.2,118.0,6,modéré
+32c22323-23c7-4a16-82af-5406fecdae1c,Voahangy Randria,female,2003-04-01,Mahajanga,Boeny,False,23,True,True,26.6,80.0,136.0,7.1,135.0,9,élevé
+33db2e57-eb96-4689-ad74-01dd7b243f18,Fetra Rasoa,male,1985-01-23,Toliara,Atsimo-Andrefana,False,41,False,False,23.8,73.0,99.0,5.6,124.0,1,faible
+ca5ac112-923a-40c3-8d9e-d949de647336,Hery Rasoa,male,1950-11-23,Toamasina,Atsinanana,False,75,True,False,30.8,84.0,146.0,7.4,139.0,11,élevé
+e7062e6f-c9ea-42a0-b5e5-10e0da9407d1,Voahangy Raza,female,1994-11-27,Fianarantsoa,Haute Matsiatra,False,31,False,False,26.4,76.0,85.0,5.5,127.0,1,faible
+ddd5070e-f35c-4382-ac18-999c3d5c7910,Rado Randria,male,1985-05-15,Mahajanga,Boeny,False,41,False,False,24.6,72.0,105.0,5.5,131.0,2,faible
+1bffacf0-462a-43d9-a275-1fb71c8a063d,Hanta Razafy,female,1962-05-29,Fianarantsoa,Haute Matsiatra,False,64,False,False,25.4,83.0,97.0,5.9,143.0,6,modéré
+6dbde068-e2d6-4d46-8d87-1bd66c3fc189,Jean Rabe,male,1997-10-17,Toamasina,Atsinanana,False,28,False,True,25.6,80.0,88.0,5.5,129.0,3,faible
+5075947a-a6ff-473d-95a0-16d22c85a7bf,Fetra Razafy,male,2006-12-16,Mahajanga,Boeny,False,19,False,True,24.1,82.0,91.0,5.3,129.0,2,faible
+533472c8-61e6-4f9a-b629-5b64b62bebb5,Tiana Rasoa,male,1957-05-22,Toliara,Atsimo-Andrefana,False,69,False,False,24.3,84.0,103.0,5.7,132.0,4,modéré
+00c1b347-2a7c-4b58-9348-2d1e233bdded,Marc Rakoto,male,2005-05-30,Antsirabe,Vakinankaratra,False,21,False,False,21.5,73.0,87.0,5.3,113.0,0,faible
+e0bd45ad-05af-4b31-a214-d9631bbf68d0,Tiana Ramanana,male,1983-08-02,Mahajanga,Boeny,False,43,False,False,25.5,75.0,107.0,5.4,124.0,2,faible
+e5a4f912-5f4e-47aa-b9f3-645f8d37bd48,Fetra Rakoto,male,2005-07-18,Toamasina,Atsinanana,False,21,False,False,25.5,69.0,99.0,5.6,114.0,1,faible
+3c18432a-ed83-4101-a733-b1dc40fa8b09,Hery Ramanana,male,1977-08-25,Fianarantsoa,Haute Matsiatra,False,49,False,True,25.3,81.0,95.0,5.7,138.0,6,modéré
+3c50954d-4e0c-4066-9bef-6cbe7de9fb13,Rado Ramanana,male,1987-02-14,Fianarantsoa,Haute Matsiatra,False,39,False,False,26.1,74.0,102.0,5.6,124.0,1,faible
+91c3050b-75a2-44e2-a421-7704a481eeaf,Fetra Rasoa,male,1985-12-14,Toamasina,Atsinanana,False,40,False,False,25.9,75.0,96.0,5.8,132.0,4,modéré
+a810ba6a-6472-4a74-9d05-3ce3ebb0db08,Miora Rabe,female,1977-12-16,Toliara,Atsimo-Andrefana,False,48,False,True,23.2,83.0,98.0,5.5,138.0,4,modéré
+a31f0149-b3a1-4684-bb75-94a8c478fadb,Voahangy Raza,female,2002-07-04,Fianarantsoa,Haute Matsiatra,False,24,False,False,25.5,74.0,100.0,5.2,116.0,1,faible
+f33915d7-3e94-4289-93a0-301daaa17dfc,Fara Raza,female,1987-12-25,Toamasina,Atsinanana,False,38,False,False,21.6,73.0,105.0,5.2,129.0,0,faible
+20ca4f54-690b-4e38-9305-432dfdc4e856,Nomena Andria,male,1979-06-14,Mahajanga,Boeny,False,47,True,False,27.7,79.0,135.0,7.4,134.0,8,élevé
+e3d6508e-6a1b-47ca-8546-65f5d16bc261,Marie Razafy,female,1989-12-24,Toamasina,Atsinanana,False,36,True,False,26.3,71.0,141.0,7.4,127.0,6,modéré
+f7b20e2c-d4bf-4be3-8569-e0ffa11516d6,Rado Raza,male,1951-08-18,Mahajanga,Boeny,False,75,False,True,27.8,88.0,102.0,5.8,150.0,9,élevé
+23781803-a2ec-4aaa-9698-5db68d65bf75,Lala Rakoto,female,1949-01-28,Toamasina,Atsinanana,False,77,True,True,29.6,90.0,136.0,7.6,150.0,13,élevé
+a9152186-e695-420e-a763-c702ee88f7e7,Marc Rasoa,male,1977-09-04,Mahajanga,Boeny,False,48,False,False,25.7,75.0,97.0,5.5,126.0,2,faible
+f506ba4b-eca5-4df2-9c59-21cc548a7433,Rado Randria,male,1997-03-16,Antsirabe,Vakinankaratra,False,29,True,False,30.4,79.0,122.0,7.2,125.0,7,modéré
+08b6b5ad-6975-4701-806a-fbd1eda092be,Tiana Rakoto,male,1962-01-14,Fianarantsoa,Haute Matsiatra,False,64,False,False,24.1,79.0,105.0,6.0,128.0,3,faible
+a204da9d-2630-4a98-8102-3c55a1ecbd1d,Lala Rakoto,female,1970-12-22,Antananarivo,Analamanga,False,55,False,True,27.3,90.0,103.0,5.5,140.0,7,modéré
+ff7543f0-89a3-4d1b-9778-5ebe4f14a9bf,Jean Rasoa,male,1970-09-02,Fianarantsoa,Haute Matsiatra,False,55,True,False,31.2,77.0,136.0,7.7,138.0,10,élevé
+5717e8dd-007f-4f02-b1fa-146878ec1cd8,Miora Rabe,female,1956-03-25,Antsirabe,Vakinankaratra,False,70,False,True,26.5,90.0,107.0,6.0,157.0,9,élevé
+195b447f-280d-486c-97a8-48c893113e7a,Jean Raza,male,1953-03-12,Toamasina,Atsinanana,False,73,False,False,25.5,85.0,109.0,5.6,142.0,6,modéré
+1f1dfd5a-0fab-4be2-a31e-c45033d95680,Hery Ramanana,male,1988-10-20,Toamasina,Atsinanana,False,37,False,False,24.9,72.0,89.0,5.5,123.0,0,faible
+5e75f41e-cb9f-408e-898a-716a990e836f,Marc Rakoto,male,1972-01-22,Antsirabe,Vakinankaratra,False,54,False,False,22.1,73.0,101.0,5.6,134.0,2,faible
+f387811f-79e8-4228-8938-418e9ef341e9,Voahangy Ramanana,female,1970-10-03,Antananarivo,Analamanga,False,55,False,False,27.1,81.0,98.0,5.7,131.0,5,modéré
+82565c14-f701-4925-962c-4e02e2b71f9f,Tiana Rakoto,male,1987-11-02,Fianarantsoa,Haute Matsiatra,False,38,False,True,26.6,86.0,99.0,5.2,137.0,4,modéré
+808e982d-7879-4977-aaed-3c3bf0158070,Marie Andria,female,1998-07-15,Toliara,Atsimo-Andrefana,False,28,False,False,24.1,73.0,85.0,5.5,117.0,0,faible
+8c4487c1-fa8d-4f97-be6e-5e10d6245522,Hery Andria,male,1947-03-31,Antsirabe,Vakinankaratra,False,79,True,False,30.5,79.0,134.0,7.6,134.0,11,élevé
+1c7115f3-36a0-45cb-bb5d-b63ec3c0368d,Hanta Ramanana,female,1988-07-28,Toliara,Atsimo-Andrefana,False,38,False,False,23.0,77.0,97.0,5.6,119.0,0,faible
+545044d5-2d93-46fb-aa18-4be5bb93d58a,Nomena Rabe,male,1958-06-01,Toliara,Atsimo-Andrefana,False,68,False,True,23.8,89.0,112.0,5.5,154.0,6,modéré
+67dfd4b0-afdc-4482-9b22-5f978ff31d0f,Marc Razafy,male,1950-07-29,Antsirabe,Vakinankaratra,False,76,True,True,28.5,87.0,137.0,7.7,162.0,14,élevé
+7ccd9f09-d205-4f2b-9583-70266386bb08,Rado Razafy,male,1981-11-08,Antananarivo,Analamanga,False,44,False,False,27.1,78.0,107.0,5.3,132.0,3,faible
+dfbb940f-e2e5-4740-891e-993c37e73773,Fara Ramanana,female,1994-09-27,Toamasina,Atsinanana,False,31,False,False,26.0,73.0,84.0,5.5,124.0,1,faible
+14073b91-a812-41fd-9523-cea495c8bdae,Marc Rakoto,male,1951-10-07,Mahajanga,Boeny,False,74,False,False,28.5,85.0,107.0,5.6,146.0,6,modéré
+e4a76998-14db-48c2-8d98-a6c65f01bd5e,Fetra Rasoa,male,1987-11-26,Toamasina,Atsinanana,False,38,False,False,25.4,79.0,100.0,5.7,130.0,3,faible
+f0ffad6c-486e-4e1f-90f0-d9e96e84dcf1,Rado Raza,male,1976-10-31,Fianarantsoa,Haute Matsiatra,False,49,False,False,24.8,74.0,98.0,5.4,130.0,2,faible
+ad41177b-6ae0-4f99-8f5b-705b632b3ddc,Fara Raza,female,1987-11-02,Antsirabe,Vakinankaratra,False,38,False,False,24.8,78.0,87.0,5.7,121.0,1,faible
+feae0e98-d826-4d6a-acc0-deb0a08b44ef,Marc Rakoto,male,1951-12-04,Fianarantsoa,Haute Matsiatra,False,74,False,False,23.5,78.0,113.0,6.0,138.0,5,modéré
+7255fde6-b926-4032-9f16-fc804bb17b4d,Fara Andria,female,1999-09-25,Mahajanga,Boeny,False,26,False,False,24.9,76.0,92.0,5.4,124.0,0,faible
+ac629dd4-4110-44ef-96d4-a0c399054916,Nomena Rasoa,male,1956-07-18,Antananarivo,Analamanga,False,70,False,True,23.4,88.0,97.0,5.5,155.0,7,modéré
+53aa99ee-f3b2-417e-a497-20ba9fabf292,Fara Rabe,female,1966-06-26,Antananarivo,Analamanga,False,60,True,False,30.2,81.0,131.0,7.7,128.0,9,élevé
+9cc6dc37-093a-4dab-9a55-0baa0fe360a9,Andry Ramanana,male,1954-11-02,Toamasina,Atsinanana,False,71,False,True,24.1,93.0,99.0,5.9,154.0,8,élevé
+4014f47c-712b-4bd9-906d-2b529ea007ed,Jean Rasoa,male,1972-09-19,Mahajanga,Boeny,False,53,False,True,26.1,82.0,110.0,5.6,141.0,6,modéré
+5902426e-570d-4107-b0c3-b10a79b0a415,Miora Andria,female,1953-05-19,Toamasina,Atsinanana,False,73,False,True,28.6,92.0,115.0,5.8,156.0,9,élevé
+b6af6c77-af7c-408a-a554-7f44470087db,Rado Raza,male,1982-08-12,Antsirabe,Vakinankaratra,False,44,True,False,28.6,75.0,138.0,7.2,130.0,8,élevé
+1b78b71f-238e-450a-ba18-352da6fedd99,Hanta Raza,female,1990-07-07,Toliara,Atsimo-Andrefana,False,36,False,True,21.5,81.0,103.0,5.7,138.0,4,modéré
+7003ebbb-864e-40b6-baac-5db52e477eb9,Jean Ramanana,male,1982-06-29,Toamasina,Atsinanana,False,44,False,True,26.5,85.0,108.0,5.3,135.0,5,modéré
+c27f47a5-7d37-4894-b9e4-bf9f9e2f7757,Marie Ramanana,female,1979-12-11,Toliara,Atsimo-Andrefana,False,46,False,False,25.8,81.0,104.0,5.5,134.0,3,faible
+87a2a9f9-0537-48b0-9552-2130def28d1c,Marie Ramanana,female,1951-01-27,Toliara,Atsimo-Andrefana,False,75,False,True,24.3,92.0,112.0,5.7,147.0,8,élevé
+93fa163b-2b60-4805-8b4f-e2bfd26e2276,Marie Rabe,female,1972-05-25,Toliara,Atsimo-Andrefana,False,54,False,True,25.7,83.0,91.0,5.4,141.0,6,modéré
+8ec9e052-ad52-4ca1-8ae7-d556f8af384f,Voahangy Rabe,female,1951-01-09,Antananarivo,Analamanga,False,75,False,False,27.6,82.0,104.0,5.8,141.0,7,modéré
+e3610ac5-a8e8-4051-9d8f-5139e7f031c5,Jean Andria,male,2006-06-03,Fianarantsoa,Haute Matsiatra,False,20,False,False,21.6,77.0,87.0,5.6,113.0,0,faible
+3f29d8ad-e028-4061-95d7-f6fdba745aa3,Andry Rasoa,male,1974-11-28,Antananarivo,Analamanga,False,51,False,False,23.9,82.0,98.0,5.5,132.0,2,faible
+2c249334-ad11-411b-b488-acf4e6f4f4b9,Miora Razafy,female,1963-04-08,Antsirabe,Vakinankaratra,False,63,True,False,31.0,75.0,132.0,7.4,140.0,11,élevé
+e4fb3def-c8ce-4b65-913f-ec002ded5f06,Jean Rabe,male,1980-05-08,Toliara,Atsimo-Andrefana,False,46,False,True,21.6,82.0,104.0,5.5,141.0,5,modéré
+e79cd2ab-89d8-4f02-8f69-6fab49ac563a,Lala Rasoa,female,1976-07-03,Antsirabe,Vakinankaratra,False,50,False,True,25.0,81.0,97.0,5.7,153.0,7,modéré
+ccfa77af-d795-4ae6-ab6e-74f948296292,Fara Razafy,female,2000-08-06,Antsirabe,Vakinankaratra,False,26,False,True,21.8,77.0,101.0,5.6,131.0,3,faible
+deed9638-05d8-4d53-b7ec-358a23239772,Miora Rabe,female,1969-12-18,Mahajanga,Boeny,False,56,False,False,27.8,80.0,105.0,5.8,130.0,5,modéré
+82e2706e-1666-4b84-afca-09bf320d5634,Lala Rabe,female,1954-03-04,Antananarivo,Analamanga,False,72,True,True,30.4,93.0,137.0,7.3,148.0,14,élevé
+f05f191e-5ca6-4847-bee8-84d6fa178f2c,Hanta Raza,female,1959-10-06,Fianarantsoa,Haute Matsiatra,False,66,False,True,28.1,93.0,109.0,5.9,146.0,8,élevé
+ea8ce6d7-72d8-4116-8425-197be91eff9a,Voahangy Rakoto,female,1971-09-08,Mahajanga,Boeny,False,54,True,False,28.7,82.0,146.0,7.3,126.0,7,modéré
+8ea18193-3c07-44b9-9669-30f2212cf78f,Lala Ramanana,female,1970-10-27,Antananarivo,Analamanga,False,55,False,False,23.5,80.0,100.0,5.5,129.0,2,faible
+74bc9e3f-8b3d-4274-bc03-a2a5e7ad4498,Nomena Rasoa,male,1984-04-07,Antananarivo,Analamanga,False,42,False,True,22.8,84.0,94.0,5.6,146.0,5,modéré
+7a28fc5c-4ff3-4fe6-b67d-faf273336be9,Fetra Andria,male,1996-03-25,Toliara,Atsimo-Andrefana,False,30,False,False,21.1,73.0,101.0,5.4,125.0,0,faible
+644af6e6-c36c-423d-9785-aa6853ac8849,Marie Ramanana,female,1981-03-06,Fianarantsoa,Haute Matsiatra,False,45,True,False,28.0,76.0,140.0,7.4,126.0,7,modéré
+4d3bcb67-d515-4535-9251-0d603c7fd51f,Tiana Randria,male,2001-07-10,Toliara,Atsimo-Andrefana,False,25,False,True,21.6,78.0,95.0,5.7,140.0,5,modéré
+880f1b8c-7442-4046-a920-3066e41a3a49,Andry Ramanana,male,1980-12-24,Antananarivo,Analamanga,False,45,True,False,28.8,82.0,138.0,7.4,135.0,8,élevé
+234bda57-92b0-4b9f-acfd-ad4c4a6bde78,Tiana Razafy,male,1987-03-25,Toamasina,Atsinanana,False,39,False,False,22.3,75.0,88.0,5.4,128.0,0,faible
+5d1c4216-69f6-46f1-a79e-995aeb2cf86a,Voahangy Ramanana,female,1984-02-25,Toliara,Atsimo-Andrefana,False,42,False,True,23.7,87.0,106.0,5.6,142.0,5,modéré
+21e6358f-b32a-4832-b24e-c99cb8939120,Hanta Raza,female,2006-11-06,Toliara,Atsimo-Andrefana,False,19,True,False,30.1,70.0,132.0,7.0,111.0,7,modéré
+32be0757-b9d2-42a6-a6ca-53c4602b8e6b,Voahangy Ramanana,female,1956-06-19,Antsirabe,Vakinankaratra,False,70,False,True,28.2,91.0,116.0,5.6,150.0,8,élevé
+f1455221-6565-4add-b873-ac2ee198da7b,Marc Rabe,male,1945-11-02,Mahajanga,Boeny,False,80,False,True,28.3,89.0,116.0,5.6,163.0,9,élevé
+dbeedcb1-e922-4cae-aa55-f0003e71523a,Fara Andria,female,1948-07-31,Fianarantsoa,Haute Matsiatra,False,78,False,True,27.4,87.0,114.0,5.6,163.0,9,élevé
+2c3fc0bb-01da-451e-9ee4-0be01b7f9acc,Voahangy Ramanana,female,1995-01-01,Fianarantsoa,Haute Matsiatra,False,31,True,False,29.6,75.0,138.0,7.4,125.0,6,modéré
+81290c07-0eb4-4a30-ac01-e81c4fa14812,Voahangy Rakoto,female,1996-10-18,Toamasina,Atsinanana,False,29,False,False,25.6,73.0,100.0,5.4,127.0,1,faible
+c7c2f3ac-f9d4-4ebf-8434-1e9e4e0a213f,Rado Rasoa,male,1977-07-16,Antananarivo,Analamanga,False,49,True,True,30.4,86.0,140.0,7.1,147.0,12,élevé
+12d83da6-00f7-4965-9813-e9ad3118629d,Sitraka Rakoto,female,1947-08-07,Antananarivo,Analamanga,False,79,True,True,30.4,87.0,146.0,7.4,160.0,15,élevé
+34b9f080-fb82-424d-9704-06216f1b8d64,Nirina Rakoto,female,1977-08-05,Toliara,Atsimo-Andrefana,False,49,True,False,27.2,79.0,144.0,7.3,125.0,7,modéré
+460d328a-3170-4bd0-8015-62fec8688869,Sitraka Razafy,female,1963-11-10,Mahajanga,Boeny,False,62,False,False,24.9,82.0,95.0,5.5,141.0,4,modéré
+4f0480e9-2676-4fae-b183-401a19dfc7f8,Nomena Rabe,male,1961-09-10,Mahajanga,Boeny,False,64,True,True,28.9,88.0,146.0,7.3,157.0,12,élevé
+5dff51f4-8a91-4526-95e4-2d81fe822e24,Sitraka Rabe,female,1980-10-09,Toamasina,Atsinanana,False,45,False,False,23.9,72.0,106.0,5.8,122.0,2,faible
+f6bd6818-058a-4151-8e8b-8cbc7062a610,Hanta Ramanana,female,1959-07-01,Antsirabe,Vakinankaratra,False,67,False,True,22.6,89.0,96.0,5.7,150.0,7,modéré
+cd766b0f-f09a-4826-995f-8f60de4ef112,Jean Randria,male,1967-03-09,Toamasina,Atsinanana,False,59,True,False,32.6,76.0,140.0,7.4,133.0,10,élevé
+c7be9156-dd58-49d8-a409-f5d9218715af,Hery Andria,male,1987-08-03,Mahajanga,Boeny,False,39,False,True,23.9,83.0,91.0,5.6,136.0,3,faible
+a8753105-84a4-4286-9efe-aaad72e31b3d,Andry Rasoa,male,1981-12-28,Antananarivo,Analamanga,False,44,False,False,26.4,74.0,90.0,5.7,133.0,4,modéré
+99aab22f-a4d1-45e5-ba92-8d824c07b760,Rado Raza,male,1985-10-21,Antananarivo,Analamanga,False,40,False,False,26.2,71.0,96.0,5.7,131.0,4,modéré
+396cfb75-6505-47d5-8ff0-0119f5a94458,Tiana Rabe,male,1956-04-19,Toliara,Atsimo-Andrefana,False,70,False,False,23.8,79.0,114.0,5.5,144.0,5,modéré
+e0adc649-d183-437f-964c-002778053368,Hery Raza,male,1989-09-17,Antsirabe,Vakinankaratra,False,36,False,False,22.3,74.0,96.0,5.7,125.0,1,faible
+1da262f8-13ce-42b1-bcdb-5e503842dce5,Rado Andria,male,2002-03-19,Toamasina,Atsinanana,False,24,True,False,29.9,74.0,133.0,7.1,112.0,6,modéré
+479aba72-2863-4331-8e71-7bfd088c9d1b,Rado Razafy,male,1961-10-30,Toliara,Atsimo-Andrefana,False,64,False,False,23.8,77.0,104.0,5.9,130.0,4,modéré
+8074156c-ecf5-4236-a944-57840e781ea5,Hanta Randria,female,1987-07-03,Toliara,Atsimo-Andrefana,False,39,False,False,26.5,75.0,104.0,5.6,123.0,1,faible
+99334f17-c997-423f-b93f-1cd688ea3806,Marie Rakoto,female,1986-02-04,Antsirabe,Vakinankaratra,False,40,False,False,25.1,80.0,89.0,5.3,126.0,2,faible
+366749d4-91d4-461c-8f61-9ad61876f4bb,Hanta Randria,female,1977-06-30,Antsirabe,Vakinankaratra,False,49,False,False,23.1,78.0,98.0,5.6,135.0,2,faible
+6777ca1c-b3ba-467a-8fc9-c4fc4a9b7114,Andry Raza,male,1966-03-14,Antananarivo,Analamanga,False,60,True,False,32.7,79.0,140.0,7.5,136.0,10,élevé
+5d0b6571-9e4c-4aba-adc8-04341d423d08,Andry Raza,male,1969-11-16,Toamasina,Atsinanana,False,56,False,True,21.9,84.0,95.0,5.5,152.0,6,modéré
+5d838cfd-c0b9-4578-a6cb-348087a250e4,Tiana Raza,male,1978-03-19,Fianarantsoa,Haute Matsiatra,False,48,False,False,25.1,79.0,97.0,5.4,124.0,2,faible
+d46b1a0e-1d47-4d44-a1a1-972ef608be25,Tiana Randria,male,1975-03-31,Fianarantsoa,Haute Matsiatra,False,51,False,False,26.5,74.0,94.0,5.7,131.0,4,modéré
+78e8408a-fe5e-427f-8c7f-c1e3025b3934,Nomena Rakoto,male,1981-11-09,Fianarantsoa,Haute Matsiatra,False,44,False,False,21.8,73.0,105.0,5.5,128.0,1,faible
+e0b07eca-aab0-4927-847f-44cb409ae2df,Nirina Raza,female,1946-04-09,Antsirabe,Vakinankaratra,False,80,True,True,33.2,94.0,143.0,7.7,157.0,14,élevé
+0a769f5d-ee98-4e31-abf5-0d960a668e91,Tiana Raza,male,2000-05-24,Antananarivo,Analamanga,False,26,False,False,26.2,76.0,86.0,5.2,125.0,1,faible
+de0301c0-60eb-4889-a180-c9f7a3fe292e,Hery Randria,male,1991-06-26,Toamasina,Atsinanana,False,35,True,False,31.4,73.0,124.0,7.0,124.0,7,modéré
+5b83a52b-ba25-4bcb-8cad-502bf0a52c6d,Fetra Rakoto,male,1950-08-30,Antsirabe,Vakinankaratra,False,76,True,True,33.4,94.0,138.0,7.6,156.0,14,élevé
+7c72543f-7373-4578-ac3f-b77a16e9d381,Sitraka Ramanana,female,1953-03-09,Mahajanga,Boeny,False,73,True,False,30.1,83.0,147.0,7.5,139.0,11,élevé
+2d092c34-cba9-4db5-a1fb-6f162de7ae4d,Nirina Ramanana,female,1997-09-10,Antsirabe,Vakinankaratra,False,28,False,False,22.8,70.0,92.0,5.3,128.0,0,faible
+4d86d274-4fe8-439c-acdb-66e58f42ac0d,Hanta Rasoa,female,1949-09-06,Antsirabe,Vakinankaratra,False,77,False,True,23.4,89.0,115.0,5.8,150.0,8,élevé
+37b4459d-89ac-46ec-9054-8ecc6eabfd29,Voahangy Raza,female,1973-12-01,Toamasina,Atsinanana,False,52,False,True,25.3,81.0,94.0,5.8,144.0,7,modéré
+495ba04b-c6f3-459c-8a61-2df6e531c9ee,Jean Rabe,male,2002-03-27,Toamasina,Atsinanana,False,24,False,False,24.3,78.0,85.0,5.7,114.0,1,faible
+ab80eb52-9139-4dde-8b3e-e8dc6e263b84,Rado Rabe,male,1989-11-18,Toliara,Atsimo-Andrefana,False,36,False,False,20.9,79.0,97.0,5.5,131.0,1,faible
+4b45439d-8678-4d1e-bdc3-5f5dd50ff79e,Nomena Andria,male,2003-04-22,Antsirabe,Vakinankaratra,False,23,False,False,24.7,73.0,86.0,5.3,114.0,0,faible
+80545a1c-9f79-41b2-8903-fe1dd0b3e3f4,Miora Razafy,female,1949-05-14,Antananarivo,Analamanga,False,77,False,False,25.7,85.0,116.0,5.8,141.0,7,modéré
+f30d0199-5a80-4f9e-a195-1b03eeb8227c,Hanta Randria,female,1985-10-06,Antsirabe,Vakinankaratra,False,40,False,False,25.9,78.0,101.0,5.6,123.0,2,faible
+0fe8b2cb-a2ec-4311-a6f0-9c92da1974f6,Hanta Rabe,female,1960-06-28,Antsirabe,Vakinankaratra,False,66,False,False,26.3,80.0,101.0,5.6,140.0,5,modéré
+0895b3e4-511b-4a11-8971-515baa237392,Rado Rabe,male,1990-01-24,Toliara,Atsimo-Andrefana,False,36,False,False,26.3,72.0,105.0,5.7,117.0,2,faible
+81fd278b-4b11-4a27-80c1-2de4ffb59ec6,Tiana Randria,male,1983-02-21,Antananarivo,Analamanga,False,43,False,False,21.5,77.0,106.0,5.7,132.0,3,faible
+e785d41d-d1be-4fd2-be88-4488e9e507e3,Miora Ramanana,female,1956-02-27,Mahajanga,Boeny,False,70,False,False,25.1,84.0,108.0,5.9,140.0,7,modéré
+46f37de6-9497-4405-b068-4dedc8b77e2e,Nomena Rabe,male,1956-05-16,Antsirabe,Vakinankaratra,False,70,False,False,25.6,81.0,97.0,6.0,132.0,6,modéré
+63e2f7be-2844-445f-832d-71cd21ff6550,Marc Andria,male,1947-11-01,Toliara,Atsimo-Andrefana,False,78,True,True,29.1,91.0,150.0,7.6,156.0,13,élevé
+f24af80c-7fbc-4ab0-ba84-f41c94c5f93b,Miora Raza,female,1947-08-07,Toamasina,Atsinanana,False,79,False,True,26.3,86.0,99.0,5.9,155.0,9,élevé
+9d9863b0-b6e6-432d-ace4-d99439e1ff4b,Fetra Raza,male,1964-05-31,Antsirabe,Vakinankaratra,False,62,False,False,25.7,83.0,101.0,5.6,142.0,5,modéré
+5da199b9-a8bb-4ee0-bf7c-6f2ecc9f2bd2,Voahangy Ramanana,female,1952-08-23,Toamasina,Atsinanana,False,74,False,False,27.4,85.0,109.0,5.7,138.0,6,modéré
+ba715f32-9326-476b-9bdd-aa9836840fa9,Andry Rabe,male,1990-07-24,Antananarivo,Analamanga,False,36,False,False,23.2,76.0,87.0,5.5,131.0,1,faible
+3964058c-abcd-467e-98cf-9e07b2c1be80,Fetra Rasoa,male,1999-04-15,Toamasina,Atsinanana,False,27,False,False,21.2,72.0,102.0,5.3,119.0,0,faible
+f672169a-55e2-49df-a6e2-5ce66d743198,Hanta Randria,female,1980-06-30,Antsirabe,Vakinankaratra,False,46,True,True,28.7,90.0,126.0,7.4,139.0,10,élevé
+72c26713-7f7b-4ad2-8bc7-822bcff35d0a,Nomena Rasoa,male,1951-04-07,Fianarantsoa,Haute Matsiatra,False,75,False,False,24.4,82.0,107.0,6.1,137.0,5,modéré
+61a94546-b005-4549-a5d1-c3c42e798ab5,Rado Andria,male,1980-07-04,Fianarantsoa,Haute Matsiatra,False,46,False,True,22.0,89.0,103.0,5.5,144.0,5,modéré
+4cd8391f-41b9-444e-88ff-0570aa487c80,Miora Rakoto,female,1996-07-27,Fianarantsoa,Haute Matsiatra,False,30,False,False,20.5,77.0,102.0,5.7,128.0,1,faible

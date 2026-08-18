@@ -1,0 +1,178 @@
+{
+  "resourceType": "Bundle",
+  "type": "transaction",
+  "entry": [
+    {
+      "resource": {
+        "resourceType": "Patient",
+        "id": "1da262f8-13ce-42b1-bcdb-5e503842dce5",
+        "name": [
+          {
+            "given": [
+              "Rado"
+            ],
+            "family": "Andria"
+          }
+        ],
+        "gender": "male",
+        "birthDate": "2002-03-19",
+        "address": [
+          {
+            "city": "Toamasina",
+            "state": "Atsinanana"
+          }
+        ]
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "Condition",
+        "subject": {
+          "reference": "Patient/1da262f8-13ce-42b1-bcdb-5e503842dce5"
+        },
+        "code": {
+          "coding": [
+            {
+              "code": "44054006",
+              "display": "Type 2 diabetes mellitus"
+            }
+          ],
+          "text": "Type 2 diabetes mellitus"
+        },
+        "onsetDateTime": "2008-03-25T00:00:00Z",
+        "clinicalStatus": {
+          "coding": [
+            {
+              "code": "active"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "Observation",
+        "subject": {
+          "reference": "Patient/1da262f8-13ce-42b1-bcdb-5e503842dce5"
+        },
+        "code": {
+          "coding": [
+            {
+              "code": "39156-5",
+              "display": "Body Mass Index"
+            }
+          ],
+          "text": "Body Mass Index"
+        },
+        "valueQuantity": {
+          "value": 29.9,
+          "unit": "kg/m2"
+        },
+        "effectiveDateTime": "2026-04-09T00:00:00Z"
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "Observation",
+        "subject": {
+          "reference": "Patient/1da262f8-13ce-42b1-bcdb-5e503842dce5"
+        },
+        "code": {
+          "coding": [
+            {
+              "code": "8480-6",
+              "display": "Systolic blood pressure"
+            }
+          ],
+          "text": "Systolic blood pressure"
+        },
+        "valueQuantity": {
+          "value": 112.0,
+          "unit": "mmHg"
+        },
+        "effectiveDateTime": "2026-04-09T00:00:00Z"
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "Observation",
+        "subject": {
+          "reference": "Patient/1da262f8-13ce-42b1-bcdb-5e503842dce5"
+        },
+        "code": {
+          "coding": [
+            {
+              "code": "8462-4",
+              "display": "Diastolic blood pressure"
+            }
+          ],
+          "text": "Diastolic blood pressure"
+        },
+        "valueQuantity": {
+          "value": 74.0,
+          "unit": "mmHg"
+        },
+        "effectiveDateTime": "2026-04-09T00:00:00Z"
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "Observation",
+        "subject": {
+          "reference": "Patient/1da262f8-13ce-42b1-bcdb-5e503842dce5"
+        },
+        "code": {
+          "coding": [
+            {
+              "code": "4548-4",
+              "display": "Hemoglobin A1c"
+            }
+          ],
+          "text": "Hemoglobin A1c"
+        },
+        "valueQuantity": {
+          "value": 7.1,
+          "unit": "%"
+        },
+        "effectiveDateTime": "2026-04-09T00:00:00Z"
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "Observation",
+        "subject": {
+          "reference": "Patient/1da262f8-13ce-42b1-bcdb-5e503842dce5"
+        },
+        "code": {
+          "coding": [
+            {
+              "code": "2339-0",
+              "display": "Glucose"
+            }
+          ],
+          "text": "Glucose"
+        },
+        "valueQuantity": {
+          "value": 133.0,
+          "unit": "mg/dL"
+        },
+        "effectiveDateTime": "2026-04-09T00:00:00Z"
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "Encounter",
+        "subject": {
+          "reference": "Patient/1da262f8-13ce-42b1-bcdb-5e503842dce5"
+        },
+        "class": {
+          "code": "ambulatory"
+        },
+        "period": {
+          "start": "2026-04-09T00:00:00Z",
+          "end": "2026-04-09T01:00:00Z"
+        }
+      }
+    }
+  ]
+}
