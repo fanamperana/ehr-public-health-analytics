@@ -2,6 +2,8 @@
 
 ![CI](https://github.com/fanamperana/ehr-public-health-analytics/actions/workflows/ci.yml/badge.svg)
 
+**🔗 [Voir le dashboard en ligne](https://ehr-public-health-analytics-f6dz5rcgkgbhkkvpqq2cp4.streamlit.app/)**
+
 Analyse de santé publique à partir de données cliniques synthétiques (format FHIR),
 générées avec [Synthea](https://synthetichealth.github.io/synthea/), pour identifier
 les facteurs démographiques et cliniques associés aux maladies chroniques
@@ -106,6 +108,10 @@ pip install -r requirements.txt
 
 ## ▶️ Utilisation
 
+**Dashboard en ligne (aucune installation nécessaire) :**
+👉 https://ehr-public-health-analytics-f6dz5rcgkgbhkkvpqq2cp4.streamlit.app/
+
+**En local :**
 ```bash
 # 1. Parser les bundles FHIR et générer le dataset patient
 python src/etl.py
