@@ -15,5 +15,6 @@ venv/
 # OS
 .DS_Store
 
-# Streamlit
-.streamlit/
+# Streamlit : ne pas exclure .streamlit/config.toml (versionné pour le déploiement),
+# mais exclure les secrets locaux si tu en ajoutes un jour
+.streamlit/secrets.toml
